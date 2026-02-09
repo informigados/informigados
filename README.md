@@ -11,22 +11,16 @@ Our work spans web development, systems, automation, and technical consulting �
 - Custom systems and automation  
 - Technical consulting and support  
 
----
-
 ## 🧠 Our philosophy
 
 We believe technology should solve real problems and remain understandable over time.
 
 **Less noise. More purpose. Code with intention.**
 
----
-
 ## 📦 Projects & Open Source
 
 Here you will find open source tools, technical experiments, and evolving projects.  
 We share practical solutions and real-world knowledge whenever possible.
-
----
 
 ## 🛠️ Technologies
 
