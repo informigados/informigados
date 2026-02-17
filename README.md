@@ -1,14 +1,14 @@
 # 👋 I'm Alex Brito.
 
-I am a Brazilian developer with over 15 years of experience. To me, software development is an exercise in logic and longevity, not just syntax.
+Brazilian developer with over 15 years of experience. To me, software development is an exercise in logic and longevity, not just syntax.
 
-I founded [INformigados](https://github.com/informigados/) to counter the "move fast and break things" culture. We prioritize clean architecture and stability because I believe digital infrastructure should be efficient and built to endure, rather than just shipped.
+I founded [INformigados](https://github.com/informigados/) to counter the "move fast and break things" culture. We prioritize clean architecture and stability because digital infrastructure should be efficient and built to endure — not just shipped.
 
 ## 🧠 The Intersection of Code & Thought
 
 Beyond engineering, I am a Professor of Technology and Philosophy.
 
-This isn't just a side role; it defines how I work. Teaching philosophy keeps my reasoning rigorous, while teaching technology keeps my skills sharp. I apply critical thinking to system design, ensuring complexity is managed, not just hidden.
+This isn't just a side role; it defines how I work. Teaching philosophy keeps my reasoning rigorous, while teaching technology keeps my skills sharp. I apply critical thinking to system design, ensuring complexity is managed — not merely hidden.
 
 ## 🚀 Core Competencies
 
@@ -38,7 +38,7 @@ This isn't just a side role; it defines how I work. Teaching philosophy keeps my
 
 ## 🌎 Context
 
-Based in Brazil 🇧🇷.
+Based in Brazil. 🇧🇷
 I am open to collaborations that value substance over hype.
 
-If you are building something meaningful — let's talk.
+If you’re building something meaningful, let’s talk.
