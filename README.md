@@ -1,17 +1,33 @@
 # 👋 Welcome!
 
-We are a Brazilian technology company focused on building reliable, high-performance digital solutions.
+I'm Alex Brito, a Brazilian Web Developer with over 15 years of experience building reliable, scalable, and performance-driven digital solutions.
 
-Our work combines clarity, solid engineering, and long-term thinking — from websites and systems to technical support and open-source projects.
+My work sits at the intersection of engineering, education, and strategic thinking. I don’t just build systems — I design solutions that solve real problems with clarity and long-term vision.
 
-We believe in simple solutions, clean code, and technology that actually solves problems.
+## 🚀 What I Do
 
-## 🧭 What we do
+- Web Development (HTML, CSS, JavaScript, PHP, React, Tailwind, WordPress)
+- Systems Architecture & Integrations
+- Performance Optimization
+- Technical Consulting
+- Open-source and collaborative projects
 
-- Web development (HTML, WordPress, custom solutions)
-- Systems and integrations
-- Performance, optimization, and technical support
-- Open-source and collaborative projects 
+## 🎓 Beyond Code
+
+I am also a Technology and Philosophy professor.  
+Teaching keeps my thinking sharp. Philosophy keeps my engineering grounded.
+
+I believe technology without reflection becomes noise — and reflection without action becomes theory.
+
+I work in both worlds.
+
+## 🧠 Core Principles
+
+- Clean, maintainable code
+- Performance as a feature
+- Simplicity over complexity
+- Long-term thinking over shortcuts
+- Technology that actually solves problems
 
 ## 🛠️ Technologies
 
@@ -30,3 +46,10 @@ We believe in simple solutions, clean code, and technology that actually solves 
 ![PageSpeed Insights](https://img.shields.io/badge/PageSpeed-4285F4?style=flat&logo=google&logoColor=white)
 ![GTmetrix](https://img.shields.io/badge/GTmetrix-1E8CBE?style=flat)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-2EA44F?style=flat)
+
+## 🌎 Location
+
+Brazil  
+Open to remote collaboration worldwide.
+
+Let’s build something meaningful.
